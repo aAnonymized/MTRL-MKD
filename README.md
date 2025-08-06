@@ -16,4 +16,4 @@ https://drive.google.com/drive/folders/1hvqMRBoIC9kgmgNUzUHpktOrr1BNwp9C?usp=sha
 <img width="1788" height="936" alt="image" src="https://github.com/user-attachments/assets/a9e5c6fc-fbce-436a-af16-842aa7d7e109" />
 
 #### if you want to test model, you just need to load our pre-train model.
-<img width="1623" height="918" alt="image" src="https://github.com/user-attachments/assets/5eb55ed3-b252-4acb-b60e-820f12e50261" /
+<img width="1623" height="918" alt="image" src="https://github.com/user-attachments/assets/5eb55ed3-b252-4acb-b60e-820f12e50261" />
