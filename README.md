@@ -8,7 +8,7 @@
 ## 2. model training
 <img width="2028" height="468" alt="image" src="https://github.com/user-attachments/assets/cf5b43a4-db5b-4eb5-ad50-20ccbe8307fe" />
 
-## 3. pre-train model download
+## 3. pre-train model and ACDC processed data download
 https://drive.google.com/drive/folders/1hvqMRBoIC9kgmgNUzUHpktOrr1BNwp9C?usp=sharing
 <img width="873" height="357" alt="image" src="https://github.com/user-attachments/assets/694f61d4-55ba-41e8-a223-d36ef197381c" />
 
