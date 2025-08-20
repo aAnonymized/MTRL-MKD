@@ -10,7 +10,7 @@
 
 ## 3. pre-train model and ACDC processed data download
 https://drive.google.com/drive/folders/1hvqMRBoIC9kgmgNUzUHpktOrr1BNwp9C?usp=sharing
-<img width="873" height="357" alt="image" src="https://github.com/user-attachments/assets/694f61d4-55ba-41e8-a223-d36ef197381c" />
+<img width="1550" height="431" alt="image" src="https://github.com/user-attachments/assets/d364e87d-240f-4818-91a0-1e3e4182c09f" />
 
 #### if you wan to train model, you need to load VST, R3D or Medmnist pre-train model.
 <img width="1788" height="936" alt="image" src="https://github.com/user-attachments/assets/a9e5c6fc-fbce-436a-af16-842aa7d7e109" />
