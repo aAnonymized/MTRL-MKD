@@ -3,17 +3,12 @@
 ## 1. data processing
 
 #### we will update data process when paper accepted.
-<img width="809" height="1377" alt="image" src="https://github.com/user-attachments/assets/2c552ae2-82b0-4be6-8cc0-3e61aaeb0368" />
+<img width="921" height="1575" alt="image" src="https://github.com/user-attachments/assets/69593e98-88f5-42cd-8f6b-1bfc9e541af0" />
 
 ## 2. model training
-<img width="2028" height="468" alt="image" src="https://github.com/user-attachments/assets/cf5b43a4-db5b-4eb5-ad50-20ccbe8307fe" />
+<img width="1305" height="294" alt="image" src="https://github.com/user-attachments/assets/4cc05f77-44ca-43e5-b3b4-21eb0be73140" />
 
 ## 3. pre-train model and ACDC processed data download
 https://drive.google.com/drive/folders/1hvqMRBoIC9kgmgNUzUHpktOrr1BNwp9C?usp=sharing
-<img width="1550" height="431" alt="image" src="https://github.com/user-attachments/assets/d364e87d-240f-4818-91a0-1e3e4182c09f" />
+<img width="3056" height="369" alt="image" src="https://github.com/user-attachments/assets/794e66d6-0342-4000-b50a-7dc3554d8ec8" />
 
-#### if you wan to train model, you need to load VST, R3D or Medmnist pre-train model.
-<img width="1788" height="936" alt="image" src="https://github.com/user-attachments/assets/a9e5c6fc-fbce-436a-af16-842aa7d7e109" />
-
-#### if you want to test model, you just need to load our pre-train model.
-<img width="1623" height="918" alt="image" src="https://github.com/user-attachments/assets/5eb55ed3-b252-4acb-b60e-820f12e50261" />
