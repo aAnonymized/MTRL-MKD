@@ -9,7 +9,7 @@ def pruning_mask(weights, mask_matrix, mask_index, k):
     _mask = mask_matrix
     tensor = weights[_mask.eq(mask_index)]
     abs_tensor = tensor.abs()
-    cutoff_rank = round(k * tensor.numel())
+    cutoff_rank = round((1-k) * tensor.numel())
     cutoff_value = abs_tensor.cpu().kthvalue(cutoff_rank)[0].item()
     remove_mask = (weights.abs().le(cutoff_value)) * _mask.eq(mask_index)    
     # _mask[remove_mask.eq(1)] = 0
